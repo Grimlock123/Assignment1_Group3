@@ -5,3 +5,27 @@ img {
   margin-left: auto;
   margin-right: auto;  
 }
+body {
+  text-align:center;
+  padding: 0;
+  margin: 0;
+  background: linear-gradient(to right, #ffaaaa, #ffffff);
+}
+p{
+  color: #374537;
+  font-family: verdana;
+  display: block;
+  margin-top:1em;
+  margin-bottom:1em;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.Stories{
+  color: #992f2f;
+  font-family: verdana;
+  display: block;
+  margin-top:1em;
+  margin-bottom:1em;
+  margin-left: 200px;
+  margin-right: 200px;
+}
